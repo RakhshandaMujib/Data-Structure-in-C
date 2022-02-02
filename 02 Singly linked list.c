@@ -14,12 +14,10 @@ node* create_list(); //Reads and creates a singly linked list of MAX elements.
 
 int main()
 {
-
     node *myList; 
 
     myList = create_list(); //myList stores the pointer to the head of the linked list.
     
-
     return 0;
 }
 
